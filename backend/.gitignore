@@ -4,5 +4,6 @@
 .DS_Store
 public/images/*
 node_modules
-config/*
+config/default.json
+config/defaultText.txt
 delete.js

@@ -8,14 +8,7 @@ const config = require('config');
 const bcrypt = require('bcryptjs')
 
 // mail options
-const nodemailer = require('nodemailer');
-const transporter = nodemailer.createTransport({
-  service: 'Outlook365',
-  auth: {
-    user: config.email.register.email,
-    pass: config.email.register.password,
-  },
-});
+// const nodemailer = require('nodemailer');
 
 // sendGrid
 const sendGridMail = require('@sendgrid/mail');

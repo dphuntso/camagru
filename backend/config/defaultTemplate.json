@@ -1,0 +1,26 @@
+{
+    "baseURL": "http://localhost:9200/camagru",
+    "serverURL": "http://localhost:9100/camagru",
+    "frontend": "http://localhost:9000",
+    "profileIndex": "camagru_profiles/profile",
+    "jwtToken": "there should be a string here. without spaces",
+    "secret": "some string here. no spaces",
+    "register": {
+        "message1": "Please click the link to activate you account.",
+        "message2": "If you didn't apply for an account feel free to ignore this mail.",
+        "message3": "Activate User Account"
+    },
+    "resetPassword": {
+        "message1": "Please click the link to reset your Password.",
+        "message2": "If you didn't request a password reset YOU DEFINITELY NEED TO RESET YOUR PASSWORD. But feel free to ignore this mail.",
+        "message3": "Reset your password"
+    },
+    "sendgridAPI": "get sendgridAPI from sendgrid.",
+    "userpassword": "put your sengrid password here."
+}
+
+// remove eveything below here including this line
+
+// change the filename from defaultTemplate.json to default.json
+
+// read each line and make changes where it needs.

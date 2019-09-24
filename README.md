@@ -15,6 +15,7 @@ database =======================================================================
 
 backend ============================================================================================================
 
+    MAKE NECESSARY changes in the config/defaultTemplate.json BEFORE taking steps below
     Start 
         1. npm install(terminal command)
         2. npm start

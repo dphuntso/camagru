@@ -1,0 +1,37 @@
+
+.home {
+    display: flex;
+    /* align-items: center; */
+    margin: auto;
+    width: 100%;
+}
+.sixty {
+    width: 60%;
+    max-width: 60%;
+    /* background-color: rgb(156, 226, 156); */
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.leftsidebar, .rightsidebar {
+    float: top;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+    /* background-color: green; */
+    
+    min-width: 100px;
+    width: 20%;
+    max-width: 20%;
+    height: 100%;
+
+}
+
+/* .leftsidebar {
+}
+.rightsidebar {
+} */
+
+span {
+    justify-content: center;
+}

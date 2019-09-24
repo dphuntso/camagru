@@ -1,0 +1,31 @@
+.feedBody {
+    width: 100%;
+    padding: 1px;
+    border-radius: 1px;
+    /* background-color: lightblue; */
+}
+
+.feed {
+    padding: 5px;
+    width: 100%;
+    /* justify-content: space-around; */
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+
+.img {
+    width: 100%;
+    min-width: 100%;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* display: inline-block; */
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: middle;
+}

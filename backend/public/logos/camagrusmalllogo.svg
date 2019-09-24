@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 5.1.316 <https://api.sketch.io/> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" style="" sketchjs:metadata="eyJ0aXRsZSI6IjQzZGMzZDhmLWE5NjUtNGU4ZS04OTc5LTJkMjIyNjJiNDc0NCIsImRlc2NyaXB0aW9uIjoiTWFkZSB3aXRoIFNrZXRjaHBhZCAtIGh0dHBzOi8vc2tldGNoLmlvL3NrZXRjaHBhZCIsIm1ldGFkYXRhIjp7fSwiY2xpcFBhdGgiOnsiZW5hYmxlZCI6dHJ1ZSwic3R5bGUiOnsic3Ryb2tlU3R5bGUiOiJibGFjayIsImxpbmVXaWR0aCI6MX19LCJleHBvcnREUEkiOjcyLCJleHBvcnRGb3JtYXQiOiJzdmciLCJleHBvcnRRdWFsaXR5IjowLjk1LCJ1bml0cyI6InB4Iiwid2lkdGgiOjIyNSwiaGVpZ2h0IjoyMjUsInBhZ2VzIjp7Imxlbmd0aCI6MSwiZGF0YSI6W3sid2lkdGgiOjIyNSwiaGVpZ2h0IjoyMjV9XX19" width="225" height="225" viewBox="0 0 225 225" sketchjs:version="5.1.316">
+<path sketchjs:tool="rectangle" style="fill: #ffffff; mix-blend-mode: source-over; fill-opacity: 1; fill-rule: nonzero; vector-effect: non-scaling-stroke;" d="M0 0 L225 0 225 225 0 225 z"/>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(0.37105744048037975,0,0,0.28815995483042395,55,78)">
+	<path d="M0 0v238h238V0H0z" sketchjs:uid="1" style="fill: #cdcdcd;"/>
+	<path d="M165 50v2c10.64 0 31.63-4.71 28 12 8.64 0 23.4-1.909 30.15 4.853 7.19 7.203 3.93 19.366 3.18 28.147-1.49 17.39-.29 35.4-1.42 53-.4 6.3-3.78 28.63 1.09 32 .02-30.41 3-60.64 3-91 0-8.271 3.09-27.039-9-28l-1-4-24 3 1-13-16 2v-2l-15 1z" sketchjs:uid="2" style="fill: #a0a0a0;"/>
+	<path d="M165 52c-2.7 15.135-23.2 9.86-35 9.996-27.58.318-55.664-3.941-83-3.996-7.741-.015-23.074-2.94-29.007 2.993C13.41 65.576 14.982 74.13 15.116 80c.352 15.409-1.14 30.78-.99 46C14.262 139.81 13 154.04 13 168c0 4.92-1.373 12.1 2.032 16.14 5.098 6.05 12.271 4.44 19.138 4.37 10.744-.1 20.87.96 31.83.53 31.907-1.24 64.11 1.87 96 2.29 14.81.19 32.48 3.12 47-.33.72 3.34 4 3.39 4 0 16.23 3.72 11.65-23.03 11.67-33 .04-20.06.13-41.14 1.86-61 .75-8.594 4.23-21.97-3.38-28.776C216.14 61.962 201.62 64 193 64c4.92-17.124-17.62-12-28-12z" sketchjs:uid="3" style="fill: #404040;"/>
+	<path d="M22 57v1h24c-6.422-2.883-17.501-3.62-24-1m31 0c5.292 5.563 17.848 3 25 3 21.68 0 43.34 1.221 65 2l-15-2.4-45-1.028L53 57m-39 9l-1 52h1c1.135-14.38 5.651-38.534 0-52z" sketchjs:uid="4" style="fill: #7c7c7c;"/>
+	<path d="M70 85c17.882-3.332 29.962 2.554 47 5l3 3-1 3 9 8c.49-6.104-3.71-8.778-7.26-13.125C112.17 80.368 79.518 69.429 70 85z" sketchjs:uid="5" style="fill: #8e8e8e;"/>
+	<path d="M101 79l10 5-10-5z" sketchjs:uid="6" style="fill: #676767;"/>
+	<path d="M45 139c4.375 2.48 9.62 9.9 10 15l13 4 1 5 18 1c16.83 9.56 40.92-9.71 45.57-27.04 3.13-11.68-.66-22.58-2.57-33.96l-3 1-8-8 1-3-3-3c-21.879-5.561-52.906-15.379-67.637 10-2.742 4.72-4.476 10.6-5.685 15.91C41.951 123.5 44.979 131.33 45 139z" sketchjs:uid="7" style="fill: #cdcdcd;"/>
+	<path d="M163 91h1c5.72-4.511 25.14-5.37 31-1 .95-4.213-3.83-3.991-7-3.998-6.8-.017-23.21-3.217-25 4.998z" sketchjs:uid="8" style="fill: #7c7c7c;"/>
+	<path d="M161 112c8.18-1.7 22.56 3.79 29.52-.59C197.09 107.29 195 94.657 195 88c-8.84 2.099-22.75-4.678-30.26 1.988-3.48 3.094-3.72 17.362-3.74 22.012z" sketchjs:uid="9" style="fill: #cdcdcd;"/>
+	<path d="M81 94l19 3.295L115 103c-4.13-9.404-26.942-19.897-34-9z" sketchjs:uid="10" style="fill: #8e8e8e;"/>
+	<path d="M162 91v12h1l-1-12z" sketchjs:uid="11" style="fill: #a0a0a0;"/>
+	<path d="M71 96v1l9-2-9 1z" sketchjs:uid="12" style="fill: #7c7c7c;"/>
+	<path d="M58 137c7.588 4.09 11.115 12.8 20.015 16.03 12.337 4.49 32.235-1.55 38.775-13.03 3.31-5.83 3.39-13.48 4.21-20h-1v2c-1.72-5.82-1.68-11.44-5.93-16.33-11.42-13.149-39.954-16.977-51.61-2.09-8.508 10.87-4.594 21.36-4.46 33.42z" sketchjs:uid="13" style="fill: #404040;"/>
+	<path d="M160 95l-1 18 1 1 5-1v-1h-4l-1-17z" sketchjs:uid="14" style="fill: #676767;"/>
+	<path d="M130 103l3 31h1c.81-10.25 3-22.26-4-31z" sketchjs:uid="15" style="fill: #7c7c7c;"/>
+	<path d="M113 104l6 18h1v-2h1l-2 15h1l1-25h-3v-6h-5z" sketchjs:uid="16" style="fill: #a0a0a0;"/>
+	<path d="M45 106l-2 2-1 8 5-10h-2z" sketchjs:uid="17" style="fill: #676767;"/>
+	<path d="M164 110c2.84 7.07 25.29 6.05 29 0-8.99 3.83-19.63 1.59-29 0z" sketchjs:uid="18" style="fill: #8e8e8e;"/>
+	<path d="M43 125c-.08 9.73-2.022 23.09 10 27l15 15c10.879 1.38 22.102 3.59 33 1v-1l-14-3-18-1-1-5-13-4c.008-5.1-5.071-13.31-10-15l-2-14z" sketchjs:uid="19" style="fill: #a0a0a0;"/>
+	<path d="M57 129l2 14 8 4-9-10-1-8z" sketchjs:uid="20" style="fill: #7c7c7c;"/>
+	<path d="M11 137v51l8 3-1 2 26-3v-1c-6.138-.13-12.927.45-18.961-.14C.978 186.5 20.446 149.47 11 137m96 13l4-4-4 4z" sketchjs:uid="21" style="fill: #8e8e8e;"/>
+	<path d="M126 146l-2 5 4-5h-2z" sketchjs:uid="22" style="fill: #676767;"/>
+	<path d="M67 151h4v4l8-1c-3.235-2.74-8.666-7.41-12-3m10 5c7.561 2.89 20.199 4.3 25-4l-25 4m32 6v1l4-1h-4z" sketchjs:uid="23" style="fill: #8e8e8e;"/>
+	<path d="M50 189v1l45 1.74 17 1.26h1l11-1c.64 3.81 15.28 2 19 2 16.38 0 32.66.48 49 .66 4.56.05 14.2.18 17-3.66l-48 .12L50 189m172 0l-9 2-1 2v1c3.63.57 11.26.37 10-5z" sketchjs:uid="24" style="fill: #7c7c7c;"/>
+</g>
+</svg>

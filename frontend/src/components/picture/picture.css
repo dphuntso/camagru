@@ -1,0 +1,13 @@
+#player {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#output {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#canvas {
+    display: none;
+}

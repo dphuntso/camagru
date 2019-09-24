@@ -1,0 +1,23 @@
+
+// login logout
+export const LOG_IN_ATTEMPT = 'LOG_IN_ATTEMPT';
+export const LOG_IN_SUCCESS = 'LOG_IN_SUCCESS';
+export const LOG_IN_FAIL = 'LOG_IN_FAIL';
+
+export const LOG_OUT = 'LOG_OUT';
+
+// register
+export const REGISTER_ATTEMPT = 'REGISTER_ATTEMPT';
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+
+// Confirm Account
+export const CONFIRM_ACCOUNT_ATTEMPT = 'CONFIRM_ACCOUNT_ATTEMPT';
+export const CONFIRM_ACCOUNT_SUCCESS = 'CONFIRM_ACCOUNT_SUCCESS';
+export const CONFIRM_ACCOUNT_FAIL = 'CONFIRM_ACCOUNT_FAIL';
+
+// Reset Password
+export const RESET_PASSWORD_ATTEMPT = 'RESET_PASSWORD_ATTEMPT';
+export const RESET_PASSWORD_SUCCESS = 'RESET_PASSWORD_SUCCESS';
+export const RESET_PASSWORD_FAIL = 'RESET_PASSWORD_FAIL';
+export const CURRENT_PAGE = 'CURRENT_PAGE';

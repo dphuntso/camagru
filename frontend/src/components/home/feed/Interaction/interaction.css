@@ -1,0 +1,45 @@
+
+
+.interaction {
+    width: 100%;
+    /* margin: 0px; */
+    /* padding: 0px; */
+    display: inline-flex;
+}
+
+.like, .comment {
+    width: 50%;
+    /* height: 50px; */
+    /* display: inline; */
+    min-width: 75px;
+    min-height: 50px;
+}
+
+.like {
+    margin: 0px;
+    /* margin-left: 5px; */
+    justify-content: flex-start;
+}
+
+.comment {
+    /* right: 20px; */
+    /* float: right; */
+    /* margin-right: auto; */
+    justify-content: flex-end;
+    /* float: right; */
+}
+
+button {
+    width: 75px;
+    height: 30px;
+    min-width: 75px;
+    min-height: 25px; 
+    text-decoration: none;
+    border: none;
+    font-size: 1.3rem; 
+}
+
+.interactButtonComment {
+    float: right;
+    margin-right: 10px;
+}
